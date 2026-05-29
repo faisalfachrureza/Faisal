@@ -1,0 +1,20 @@
+{
+  "name": "faisal-fachrureza",
+  "version": "1.0.0",
+  "description": "Personal landing page for Faisal Fachrureza",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step required for vanilla HTML'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "portfolio",
+    "landing-page"
+  ],
+  "author": "Faisal Fachrureza",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
